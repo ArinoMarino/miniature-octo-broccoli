@@ -1,0 +1,11 @@
+Terminoppgave logg
+
+ Ekspementert med forskjellige spilltyper på unity for å få en bedre ide om nøyaktig hva jeg vil lage
+	konklusjon: puzzle-ish spill med high-score funksjoner. Muligens multiplayer om jeg får tid
+Bruke unity og MLAPI var vurdert men for å vise egenkompentanse i nettverk droppes det 
+
+Brukerstøtte: Feilsøkningsrutiner, how-to, kontaktinfo
+
+drift: Database for highscore, dedikert server, hostes gjennom nettverk av spillerne(?)
+
+Nettverk: Programmering av spillet, sette opp nettside(?)
